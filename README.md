@@ -7,7 +7,7 @@
 
 **Contact:** Chris Meunier
 
-### :round_pushpin: Purpose
+## :round_pushpin: Purpose
 
 The reason for assuring quality is to
 ensure timely delivery at the right quality level
