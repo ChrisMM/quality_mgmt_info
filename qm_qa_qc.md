@@ -20,4 +20,4 @@ quality control and quality improvement.
 
 - Comparison of [QA and QC](https://www.diffen.com/difference/Quality_Assurance_vs_Quality_Control) (external).
 
-![QA_and_QC](/practices/quality/images/QA_yin_and_yang_QC.jpg)
+![QA_and_QC](/images/QA_yin_and_yang_QC.jpg)
