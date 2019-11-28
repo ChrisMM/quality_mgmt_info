@@ -50,3 +50,7 @@ The Quality team works in software product development teams with a focus on:
 
 ### :books: Quality Guides and Tools
 - [Guides and Tools](quality_guides_tools.md)
+
+## :globe_with_meridians: References
+- Guide: [QA in Agile](http://www.intelliware.com/qa-in-an-agile-environment/)
+- Guide: [Handbook of Software Quality Assurance](https://www.amazon.com/Handbook-Software-Quality-Assurance-Fourth/dp/1596931868)
