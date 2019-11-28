@@ -11,16 +11,10 @@ Part of [Quality](/README.md)
 3. Embed QA on Scrum teams
 
 
-4. Work very closely with Engineers and Developers
-  > - On test cases
-  > - Checking with them before sending tickets back
-  > - IM (Slack?) is your friend
+4. Work very closely with Engineers and Developers (on test cases, check with them before sending tickets back, IM (Slack?) is your friend)
 
 
-5. Have a clear easy to use template for bugs
-  > - Expected
-  > - Actual
-  > - Steps to reproduce
+5. Have a clear easy to use template for bugs (Title, Expected, Actual, Steps to reproduce, Severity)
 
 
 6. Have a quality plan in mind that includes a testing strategy
