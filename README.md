@@ -39,11 +39,11 @@ The Quality team works in software product development teams with a focus on:
 ### :open_file_folder: About QM, QA and QC
 - [Defining Quality Management, Quality Assurance (QA) and Quality Control (QC)](qm_qa_qc.md)
 
-## :white_check_mark: Quality Control Activities and Product Acceptance
+### :white_check_mark: Quality Control Activities and Product Acceptance
 - [Approach to Quality Control Testing Activities and Product Acceptance](qc_product_acceptance.md)
 
-## :dollar: Cost of Quality
+### :dollar: Cost of Quality
 - [The Cost of Quality in any Project](cost_of_quality.md)
 
-## :books: Guidance for Agile QA
+### :books: Guidance for Agile QA
 - [The 10 QA Commandments](10_commandments.md)
