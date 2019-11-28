@@ -7,7 +7,7 @@
 
 **Contact:** Chris Meunier
 
-## :round_pushpin: Purpose
+### :round_pushpin: Purpose
 
 The reason for assuring quality is to
 ensure timely delivery at the right quality level
@@ -33,3 +33,9 @@ The Quality team works in software product development teams with a focus on:
 - BDD and SBE test case development collaboration
 - Test case management tooling
 - Quality management advising
+
+## :key: Learning More
+
+### :open_file_folder: About QM, QA and QC
+- [Defining Quality Management, Quality Assurance (QA) and Quality Control (QC)](qm_qa_qc.md)
+
