@@ -34,30 +34,30 @@ The Quality team works in software product development teams with a focus on:
 
 ## :key: Learning More
 
-### :open_file_folder: About QM, QA and QC
+#### :open_file_folder: About QM, QA and QC
 - [Defining Quality Management, Quality Assurance (QA) and Quality Control (QC)](qm_qa_qc.md)
 
-### :white_check_mark: Quality Control Activities and Product Acceptance
+#### :white_check_mark: Quality Control Activities and Product Acceptance
 - [Approach to Quality Control Testing Activities and Product Acceptance](qc_product_acceptance.md)
 
-### :card_index: Quality team involvement examples
+#### :card_index: Quality team involvement examples
 - [Quality team involvement on projects](team_examples.md)
 
-### :dollar: Cost of Quality
+#### :dollar: Cost of Quality
 - [The Cost of Quality in any Project](cost_of_quality.md)
 
-### :books: Guidance for Agile QA
+#### :books: Guidance for Agile QA
 - [The 10 QA Commandments](10_commandments.md)
 
-### :notebook: Examples of QA Process
+#### :notebook: Examples of QA Process
 - [QA process examples across teams](qaprocess.md)
 
-### :globe_with_meridians: Wikipedia articles on Software Quality Management and Testing
+#### :globe_with_meridians: Wikipedia articles on Software Quality Management and Testing
 - [Highlights from Wikipedia articles on Software Quality Management and Testing](quality_wiki.md)
 
 ## :page_with_curl: Select Details
 
-### :pencil: Tactics
+#### :pencil: Tactics
 
 For any engagement, a Quality team can help assure 5 areas
 for the value and sake of both internal and external coverage:
@@ -68,7 +68,7 @@ for the value and sake of both internal and external coverage:
 4. Ensuring **Retrospectives** happen and identified action items are implemented
 5. Creation and maintenance of a **best practices** library to guide reviews
 
-### :rocket: Careers in Quality Management
+#### :rocket: Careers in Quality Management
 
 _Common titles in software quality assurance (SQA)_
 1. Quality Analyst
@@ -80,6 +80,6 @@ _Common titles in software quality assurance (SQA)_
 7. VP of Quality (Management / Assurance / Control / Improvement
 8. SVP of Quality (Management / Assurance / Control / Improvement
 
-### :green_book: References
+#### :green_book: References
 - Guide: [QA in Agile](http://www.intelliware.com/qa-in-an-agile-environment/)
 - Guide: [Handbook of Software Quality Assurance](https://www.amazon.com/Handbook-Software-Quality-Assurance-Fourth/dp/1596931868)
