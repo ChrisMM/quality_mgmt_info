@@ -48,13 +48,23 @@ The Quality team works in software product development teams with a focus on:
 ### :books: Guidance for Agile QA
 - [The 10 QA Commandments](10_commandments.md)
 
-### :books: Quality Guides and Tools
-- [Guides and Tools](quality_guides_tools.md)
-
-## :globe_with_meridians: Wikipedia articles on Software Quality Management and Testing
+### :globe_with_meridians: Wikipedia articles on Software Quality Management and Testing
 - [Highlights from Wikipedia articles on Software Quality Management and Testing](quality_wiki.md)
 
-## :rocket: Careers in Quality Management
+## :page_with_curl: Select Details
+
+### :pencil: Tactics
+
+For any engagement, a Quality team can help assure 5 areas
+for the value and sake of both internal and external coverage:
+
+1. Creation and maintenance of a **Quality Plan** document
+2. Creation of a Risk Log and ensuring an ongoing **Risk Management** discussion
+3. Evaluating the **Quality** of a project working alongside all disciplines
+4. Ensuring **Retrospectives** happen and identified action items are implemented
+5. Creation and maintenance of a **best practices** library to guide reviews
+
+### :rocket: Careers in Quality Management
 
 _Common titles in software quality assurance (SQA)_
 1. Quality Analyst
@@ -66,6 +76,6 @@ _Common titles in software quality assurance (SQA)_
 7. VP of Quality (Management / Assurance / Control / Improvement
 8. SVP of Quality (Management / Assurance / Control / Improvement
 
-## :card_index: References
+### :card_index: References
 - Guide: [QA in Agile](http://www.intelliware.com/qa-in-an-agile-environment/)
 - Guide: [Handbook of Software Quality Assurance](https://www.amazon.com/Handbook-Software-Quality-Assurance-Fourth/dp/1596931868)
