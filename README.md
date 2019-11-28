@@ -51,8 +51,8 @@ The Quality team works in software product development teams with a focus on:
 ### :books: Quality Guides and Tools
 - [Guides and Tools](quality_guides_tools.md)
 
-## :globe_with_meridians: Highlights from Wikipedia articles on Software Quality Management and Testing
-- [Wikipedia articles on Software Quality Management and Testing](quality_wiki.md)
+## :globe_with_meridians: Wikipedia articles on Software Quality Management and Testing
+- [Highlights from Wikipedia articles on Software Quality Management and Testing](quality_wiki.md)
 
 ## :rocket: Careers in Quality Management
 
