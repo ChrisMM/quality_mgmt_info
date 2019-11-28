@@ -6,7 +6,7 @@ _In conversations and meetings, a good critical question often pops up asking ab
 QA group does in contrast to the QA processes followed by each individual practice._
 
 _These are some examples, not all, of QA process by looking at 
-[QA practices of prevention and QC activities for detection](/practices/quality/qm_qa_qc.md) across different contributing teams._
+[QA practices of prevention and QC activities for detection](/qm_qa_qc.md) across different contributing teams._
 
 ### Quality and Testing
 
