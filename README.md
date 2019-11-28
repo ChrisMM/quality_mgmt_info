@@ -40,6 +40,9 @@ The Quality team works in software product development teams with a focus on:
 ### :white_check_mark: Quality Control Activities and Product Acceptance
 - [Approach to Quality Control Testing Activities and Product Acceptance](qc_product_acceptance.md)
 
+### :card_index: Quality team involvement examples
+- [Quality team involvement on projects](team_examples.md)
+
 ### :dollar: Cost of Quality
 - [The Cost of Quality in any Project](cost_of_quality.md)
 
@@ -74,6 +77,6 @@ _Common titles in software quality assurance (SQA)_
 7. VP of Quality (Management / Assurance / Control / Improvement
 8. SVP of Quality (Management / Assurance / Control / Improvement
 
-### :card_index: References
+### :green_book: References
 - Guide: [QA in Agile](http://www.intelliware.com/qa-in-an-agile-environment/)
 - Guide: [Handbook of Software Quality Assurance](https://www.amazon.com/Handbook-Software-Quality-Assurance-Fourth/dp/1596931868)
