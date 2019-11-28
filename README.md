@@ -49,6 +49,9 @@ The Quality team works in software product development teams with a focus on:
 ### :books: Guidance for Agile QA
 - [The 10 QA Commandments](10_commandments.md)
 
+### :notebook: Examples of QA Process
+- [QA process examples across teams](qaprocess.md)
+
 ### :globe_with_meridians: Wikipedia articles on Software Quality Management and Testing
 - [Highlights from Wikipedia articles on Software Quality Management and Testing](quality_wiki.md)
 
