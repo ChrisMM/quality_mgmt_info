@@ -42,3 +42,5 @@ The Quality team works in software product development teams with a focus on:
 ## :white_check_mark: Quality Control Activities and Product Acceptance
 - [Approach to Quality Control Testing Activities and Product Acceptance](qc_product_acceptance.md)
 
+## :dollar: Cost of Quality
+- [The Cost of Quality in any Project](cost_of_quality.md)
