@@ -33,4 +33,4 @@ have time
 
 10. Automate testing
 
-_And optional: ​Bi Weekly check in / 1:1 individually with devs on what is going well, what could be better_
+_And optional: ​Bi Weekly check in / 1:1 individually with Engineers on what is going well, what could be better_
