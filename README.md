@@ -3,8 +3,6 @@
 ![Teamwork](images/quality_team.jpg)
 “Better Software. _Made Together_”
 
----
-
 **Contact:** Chris Meunier
 
 ## :round_pushpin: Purpose
