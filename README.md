@@ -1,4 +1,4 @@
-# Quality Management and Testing
+# Quality Management and Testing Information - Software and Technology
 
 ![Teamwork](images/quality_team.jpg)
 “Better Software. _Made Together_”
