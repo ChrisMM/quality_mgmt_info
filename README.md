@@ -1,6 +1,6 @@
 # Quality Management and Testing
 
-![Teamwork](quality_team.jpg)
+![Teamwork](images/quality_team.jpg)
 “Better Software. _Made Together_”
 
 ---
