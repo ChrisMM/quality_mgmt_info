@@ -1,5 +1,5 @@
-# Quality Management and Testing Information
 #### _Software and Technology_
+# Quality Management and Testing Information
 
 ![Teamwork](images/quality_team.jpg)
 “Better Software. _Made Together_”
