@@ -51,6 +51,18 @@ The Quality team works in software product development teams with a focus on:
 ### :books: Quality Guides and Tools
 - [Guides and Tools](quality_guides_tools.md)
 
+## :rocket: Careers in Quality Management
+
+_Common titles in software quality assurance (SQA)_
+1. Quality Analyst
+2. Quality Engineer (SDET / Test Engineer)
+3. Quality Manager
+4. Sr. Quality Manager
+5. Director of Quality (Management / Assurance / Control / Improvement)
+6. Sr. Director of Quality (Management / Assurance / Control / Improvement
+7. VP of Quality (Management / Assurance / Control / Improvement
+8. SVP of Quality (Management / Assurance / Control / Improvement
+
 ## :globe_with_meridians: References
 - Guide: [QA in Agile](http://www.intelliware.com/qa-in-an-agile-environment/)
 - Guide: [Handbook of Software Quality Assurance](https://www.amazon.com/Handbook-Software-Quality-Assurance-Fourth/dp/1596931868)
