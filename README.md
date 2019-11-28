@@ -44,3 +44,6 @@ The Quality team works in software product development teams with a focus on:
 
 ## :dollar: Cost of Quality
 - [The Cost of Quality in any Project](cost_of_quality.md)
+
+## :books: Guidance for Agile QA
+- [The 10 QA Commandments]()
