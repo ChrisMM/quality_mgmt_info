@@ -2,7 +2,7 @@ Part of [Quality](/README.md)
 
 ## :white_check_mark: Quality Control Activities and Product Acceptance
 
-For Product Acceptance, we work with Product, Design, and Engineering toward assuring and evaluating (verifiying and validating) 
+For Product Acceptance, we work with Product, Design, and Engineering toward assuring and evaluating (verifying and validating) 
 products through modern [Agile QA-Testing](https://blog.testlodge.com/the-role-of-qa-in-agile/) techniques of quality control.
 
 ![Left-Shift](/images/shift_left_quality.png)
