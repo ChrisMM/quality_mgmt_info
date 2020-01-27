@@ -2,7 +2,7 @@
 # Quality Management and Testing Information
 
 ![Teamwork](images/quality_team.jpg)
-“Better Software. _Made Together_”
+“Awesome Experience. Better Software. _Made Together_”
 
 **Contact:** Chris Meunier
 
