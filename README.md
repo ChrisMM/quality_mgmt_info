@@ -1,5 +1,5 @@
-#### _Software and Technology_
-# Quality Management and Testing Information
+#### _Software Products and System Technology_
+# Quality Management and QA-Testing Guidance
 
 ![Teamwork](images/quality_team.jpg)
 “Awesome Experience. Better Software. _Made Together_”
