@@ -86,3 +86,4 @@ _Common titles in software quality assurance (SQA)_
 #### :green_book: References
 - Guide: [QA in Agile](http://www.intelliware.com/qa-in-an-agile-environment/)
 - Guide: [Handbook of Software Quality Assurance](https://www.amazon.com/Handbook-Software-Quality-Assurance-Fourth/dp/1596931868)
+- Deck: [Quality Assurance in an Agile Environment](http://c-spin.net/2010/cspin201001eMids_QA_in_Agile.pdf)
