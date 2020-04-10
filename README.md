@@ -76,10 +76,12 @@ _Common titles in software quality assurance (SQA)_
 2. Quality Engineer (SDET / Test Engineer)
 3. Quality Manager
 4. Sr. Quality Manager
-5. Director of Quality (Management / Assurance / Control / Improvement)
-6. Sr. Director of Quality (Management / Assurance / Control / Improvement
-7. VP of Quality (Management / Assurance / Control / Improvement
-8. SVP of Quality (Management / Assurance / Control / Improvement
+5. Sr. Quality Engineer (SDET / Test Engineer)
+6. Director of Quality (Management / Assurance / Control / Improvement)
+7. Sr. Director of Quality (Management / Assurance / Control / Improvement
+8. VP of Quality (Management / Assurance / Control / Improvement
+9. SVP of Quality (Management / Assurance / Control / Improvement
+10. CQO
 
 #### :green_book: References
 - Guide: [QA in Agile](http://www.intelliware.com/qa-in-an-agile-environment/)
