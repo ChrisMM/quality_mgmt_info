@@ -47,5 +47,5 @@ _And optional: ​Bi Weekly check in / 1:1 individually with Engineers on what i
 - The lower right quadrant is fulfilled by different testms depending on the work.
 
 Note:
-Development / Engineering can design their development to support UI/GUI tests because those sort of tests need "hook" to connect to in the UI experience.
-Sometimes a request / requirement / story / ticket will use DoD/AC to include criteria to support this so the Engineer is responsible to ensure that UIs are ready for automated testing. This dependes highly on how it goes and if that would make sense or not.
+- Development / Engineering can design their development to support UI / GUI tests because those sort of tests need "hook" to connect to in the UI experience.
+- Often times a request / requirement / story / ticket will use DoD/AC to include criteria to support this so the Engineer is responsible to ensure that UIs are ready for automated testing. (This dependes highly on how it goes and if that would make sense or not.)
