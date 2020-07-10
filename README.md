@@ -84,6 +84,7 @@ _Common titles in software quality assurance (SQA)_
 8. VP of Quality (Management / Assurance / Control / Improvement)
 9. SVP of Quality (Management / Assurance / Control / Improvement)
 10. CQO or QO or QE - Chief Quality Officer or Quality Executive
+Other: Quality and Testing Advisor (advisory role at C-level and board)
 
 #### :green_book: References
 - Guide: [QA in Agile](http://www.intelliware.com/qa-in-an-agile-environment/)
