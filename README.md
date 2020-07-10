@@ -2,6 +2,7 @@
 # Quality Management and QA-Testing Guidance
 
 ![Teamwork](images/quality_team.jpg)
+
 “Awesome Experience. Better Software. _Made Together_”
 
 **Contact:** Chris Meunier
