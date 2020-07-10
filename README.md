@@ -9,18 +9,18 @@
 
 ## :round_pushpin: Purpose
 
-The reason for assuring quality is to
+*The reason for assuring quality is to
 ensure timely delivery at the right quality level
 and cost and to encourage a culture of quality.
 QA applies in all project stages.
 We apply QM to the organization practices, including QA and testing in
 all practices to identify and mitigate risks with clients and projects,
 and we apply QC and Product Acceptance directly into
-the testing and evaluation of the output (product, software system) in the form of Agile QA-Testing.
+the testing and evaluation of the output (product, software system) in the form of Agile QA-Testing.*
 
 Highlights from Wikipedia articles on [Software Quality Management and Testing](quality_wiki.md)
 
-The Quality team works in software product development teams with a focus on:
+*The Quality team works in software product development teams with a focus on:*
 
 - Context-driven and Charter / Session-based exploratory testing
 - Desktop, browser and mobile experience testing
