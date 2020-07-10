@@ -73,11 +73,11 @@ for the value and sake of both internal and external coverage:
 #### :rocket: Careers in Quality Management
 
 _Common titles in software quality assurance (SQA)_
-1. Quality Analyst
-2. Quality Engineer (SDET / Test Engineer)
-3. Quality Manager
-4. Sr. Quality Manager
-5. Sr. Quality Engineer (SDET / Test Engineer)
+1. Quality Analyst / Tester
+2. Quality / QA Engineer (SDET / Test Engineer)
+3. Quality Manager / Test Lead
+4. Sr. Quality Manager / Test Lead
+5. Sr. Quality / QA Engineer (SDET / Test Engineer)
 6. Director of Quality (Management / Assurance / Control / Improvement)
 7. Sr. Director of Quality (Management / Assurance / Control / Improvement)
 8. VP of Quality (Management / Assurance / Control / Improvement)
