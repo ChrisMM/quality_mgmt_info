@@ -62,8 +62,8 @@ The Quality team works in software product development teams with a focus on:
 
 #### :pencil: Tactics
 
-For any engagement, a Quality team can help assure 5 areas
-for the value and sake of both internal and external coverage:
+*For any engagement, a Quality team can help assure 5 areas
+for the value and sake of both internal and external coverage:*
 
 1. Creation and maintenance of a **Quality Plan** document
 2. Creation of a Risk Log and ensuring an ongoing **Risk Management** discussion
