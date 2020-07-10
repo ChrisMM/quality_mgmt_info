@@ -30,9 +30,11 @@ Highlights from Wikipedia articles on [Software Quality Management and Testing](
 - User Acceptance Testing (UAT) and release management
 - Bug report details and steps
 - Story hygiene and Acceptance Criteria / DoD / DoR
-- QA-Testing Tools & Harnesses (Automated)
+- QA-Testing Tools & Harnesses (automated)
+- Process stops and controls
 - BDD and SBE test case development collaboration
 - Test case management tooling
+- Change / Ticket statistics and analytics (dashboards)
 - Quality management advising (including risk mitigation and process improvements)
 
 ## :key: Fundamental of Learning More
