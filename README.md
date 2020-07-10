@@ -22,19 +22,20 @@ Highlights from Wikipedia articles on [Software Quality Management and Testing](
 
 The Quality team works in software product development teams with a focus on:
 
-- Context-driven exploratory and Session-based testing
+- Context-driven and Charter / Session-based exploratory testing
 - Desktop, browser and mobile experience testing
 - Feature and End-2-End acceptance testing
-- Story hygiene and Acceptance Criteria
 - Regression & Workflow testing
-- QA-Testing Tools & Harnesses
+- Pair testing (diagnostics)
 - User Acceptance Testing (UAT) and release management
-- Pair testing
+- Bug report details and steps
+- Story hygiene and Acceptance Criteria / DoD / DoR
+- QA-Testing Tools & Harnesses (Automated)
 - BDD and SBE test case development collaboration
 - Test case management tooling
-- Quality management advising
+- Quality management advising (including risk mitigation and process improvements)
 
-## :key: Learning More
+## :key: Fundamental of Learning More
 
 #### :open_file_folder: About QM, QA and QC
 - [Defining Quality Management, Quality Assurance (QA) and Quality Control (QC)](qm_qa_qc.md)
