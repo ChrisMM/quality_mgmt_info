@@ -5,7 +5,7 @@
 
 “Awesome Experience. Better Software. _Made Together_”
 
-**Contact:** Chris Meunier
+**Contact:** [Chris Meunier](https://qaleti.com/)
 
 ## :round_pushpin: Purpose
 
