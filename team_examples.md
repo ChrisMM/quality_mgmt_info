@@ -2,7 +2,7 @@ Part of [Quality](/README.md)
 
 ## :card_index: Quality team involvement examples
 
-_Here are some examples of a Quality team on client software projects. Each are not comprehensive, yet try to capture some of the salient actitivies on each project._
+_Here are some examples of a Quality team on client software projects. Each are not comprehensive, yet try to capture some of the salient activities on each project._
 
 Listed in descending order by (most-recent) engagement date. QM = Quality Manager / TE = Test Engineer
 
