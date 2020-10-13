@@ -16,10 +16,10 @@ Listed in descending order by (most-recent) engagement date. QM = Quality Manage
 | News             | Performing regression testing against proposed branches with algorithm changes using a                                                                       |
 | B2B         | QA consulting on the project, discussion and recommendation for testing tool                                                                 |
 | Blog       | Feature acceptance testing, board management, support demos and releases through testing, device and emulator testing, QA consulting on project to close out |
-| CMs        | Feature acceptance testing, automated browser smoke tests, End-2-End testing, pair testing                                                                   |
-| CMs        | Form testing, End-2-End testing, feature acceptance testing, bug fix verification, board management, emulator testing, multi-browser testing                 |
-| CMs        | Social sharing testing, SEO testing, feature and content management testing in production, QA consulting with partner PM                                     |
-| CMs        | Feature acceptance testing, bug fix verification, delivery management                                                                                        |
+| CMS        | Feature acceptance testing, automated browser smoke tests, End-2-End testing, pair testing                                                                   |
+| CMS        | Form testing, End-2-End testing, feature acceptance testing, bug fix verification, board management, emulator testing, multi-browser testing                 |
+| CMS        | Social sharing testing, SEO testing, feature and content management testing in production, QA consulting with partner PM                                     |
+| CMS        | Feature acceptance testing, bug fix verification, delivery management                                                                                        |
 | Ecommerce    | Exploratory testing, conversion-issue testing and experiments with comparison                                                                                |
 | Ecommerce    | Feature acceptance testing, board management, support demos and releases through testing, multi-browser testing                                              |
 | Finance           | "Agile QA embedded" talk-presentation, continued QA consulting on the project                                                                                |
