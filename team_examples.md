@@ -6,7 +6,7 @@ _Here are some examples of a Quality team on client software projects. Each are 
 
 Listed in descending order by (most-recent) engagement date. QM = Quality Manager / TE = Test Engineer
 
-| Partner Project | Activities                                                                                                                                                   |
+| Project | Activities                                                                                                                                                   |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | AI-ML    | Setup of software (as a test; documented), management of test cases for regression testing                                                                        |
 | Social         | QA consulting with PM, establish Quality Plan, document and manage risks log, device and emulator testing                                                    |
