@@ -2,7 +2,7 @@ Part of [Quality](/README.md)
 
 ## :dollar: Cost of Quality
 
-Are we spending money preventing defects and assuring quality, or are we spending money performing rework and handling partner issues?
+Are we spending money preventing defects and assuring quality, or are we spending money performing rework and handling client and partner issues?
 There are 4 different items in 2 categories that capture our quality related costs.
 
 - [Cost of Quality explained](https://www.accountingtools.com/articles/what-are-quality-costs.html)
