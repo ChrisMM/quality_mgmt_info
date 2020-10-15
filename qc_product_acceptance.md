@@ -26,7 +26,7 @@ and execution are considered._
 - Ensure cross-practice agreement on end-user facing solution behavior, ideally automatically verified using Cucumber.
 - Write human-readable end-to-end tests utilizing BDD and automated testing facilities, for example using Cucumber.
 - Ensure all stories describe the user value and provide thorough acceptance criteria for feature and user acceptance testing.
-- Identify and then provide detailed steps how to reproduce bugs, their severity, the expected behavior, and include additional material like screenshots if necessary in bug reports.
+- Identify and then provide detailed steps on how to reproduce bugs, their severity, the expected behavior, and include additional material like screenshots if necessary in bug reports.
 - Use continuous integration, testing, and deployment on branches to review and test all changes prior to shipping.
 
 ![agile-qa-driven](/images/agile-qa-driven.png)
