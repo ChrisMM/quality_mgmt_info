@@ -13,7 +13,7 @@ _To properly scope and estimate activities of testing on a project, the time all
 and execution are considered._
 
 - Creating Quality Plan / Strategy doc (a living doc throughout the project), includes delivery risks, testing coverage and success criteria
-- Creating/maintaing feature test case development, inventory management, and reporting
+- Creating/maintaining feature test case development, inventory management, and reporting
 - Creating/maintaining workflow/E2E test case development, inventory management, and reporting
 - Facilitating release planning and management
 - Implementing Test case automation engineering: augmenting tests in Cucumber and implementing tests in harness against standing environments
