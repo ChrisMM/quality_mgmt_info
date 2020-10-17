@@ -92,6 +92,7 @@ Agile testing is a software testing practice that follows the **principles of ag
 #### Appendix A: Software Testing Types
 
 _From: https://en.wikipedia.org/wiki/Software_testing#Testing_types,_techniques_and_tactics_
+
 This copy-and-paste excerpt from Wikipedia is simply a bare-bones list of test types. Please refer to the Wikipedia page which has a lot more context than this.
 
 - Installation testing
