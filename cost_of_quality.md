@@ -9,6 +9,6 @@ There are 4 different items in 2 categories that capture our quality related cos
   - Cost of Good Quality = Cost of Conformance through prevention practices and appraisal/evaluation
   - Cost of Bad Quality = Cost of Non-Conformance which is internal failures and external failures (see [top 10 reasons project fail](https://programsuccess.wordpress.com/2017/08/01/why-projects-fail-top-10-reasons/))
 
-| Cost of Quality                                       | Optimal Cost of Quality                                      | Quality Activities                                            |
+| Cost of Quality                                       | Optimizing Cost of Quality                                      | Cost of Quality Activities                                            |
 | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------- |
 | ![COQ](/images/Cost-of-Quality.jpg) | ![OCOQ](/images/cost-of-quality-curve.jpg) | ![COQA](/images/cost-of-quality-matrix.JPG) |
