@@ -17,7 +17,7 @@ Quality management has **four main components**:
 
 #### :raised_hands: It's for both Product and Process
 
-Quality management is focused not only on **product and service quality**, but also on the **means to achieve it**.
+Quality management is focused on **product and service quality**, and also on the **means to achieve it**.
 
 #### :heavy_check_mark: Let's talk Achievement Methods
 
