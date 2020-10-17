@@ -8,7 +8,7 @@ QA group does in contrast to the QA processes followed by each individual practi
 _These are some examples, not all, of QA process by looking at 
 [QA practices of prevention and QC activities for detection](/qm_qa_qc.md) across different contributing teams._
 
-### Quality and Testing
+### Quality Assurance (QA) and Testing
 
 | QA Practices                                     | QC Activities                                    |
 | ------------------------------------------------ | ------------------------------------------------ |
