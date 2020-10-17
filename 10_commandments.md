@@ -48,5 +48,5 @@ Insights:
 - The lower right quadrant is fulfilled by different tests depending on the work.
 
 Notes:
-- Development / Engineering can design their development to support UI / GUI tests because those sort of tests need "hook" to connect to in the UI experience.
-- Often times a request / requirement / story / ticket will use DoD/AC to include criteria to support this so the Engineer is responsible to ensure that UIs are ready for automated testing. (This dependes highly on how it goes and if that would make sense or not.)
+- Development / Engineering can design their test suite to support UI / GUI tests because those sort of tests need "hooks" to connect to in the UI experience.
+- Often times a request / requirement / story / ticket will use DoD/AC to include criteria to support this acceptance criteria of tests so the Engineer is responsible to ensure that UIs are ready for automated testing. (This dependes highly on how development, especially UI/UX, goes and if that would make sense or not.)
