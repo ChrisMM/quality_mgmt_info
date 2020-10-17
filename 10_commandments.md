@@ -42,10 +42,10 @@ _And optional: ​Bi Weekly check in / 1:1 individually with Engineers on what i
 Insights:
 - Looking at the pyramid, Development / Engineering are responsible for Unit tests / Component tests and some API level tests.
 - QA Test Engineers / SDETs are responsible for API tests and GUI testings and Evan is the test manager / lead for manual tests.
-- Looking at the quadrant, Development / Engineering are responsible for lower left quadrant.
-- QA Test Engineers / SDETs are responsible for upper left quadrant.
-- QA Testers manually testing are responsible for upper right quadrant.
-- The lower right quadrant is fulfilled by different testms depending on the work.
+- Looking at the quadrant, Development / Engineering are responsible for the lower left quadrant.
+- QA Test Engineers / SDETs are responsible for the upper left quadrant.
+- QA Testers manually testing are responsible for the upper right quadrant.
+- The lower right quadrant is fulfilled by different tests depending on the work.
 
 Notes:
 - Development / Engineering can design their development to support UI / GUI tests because those sort of tests need "hook" to connect to in the UI experience.
