@@ -59,7 +59,7 @@ To ensure quality in a software product, an organization must have a three-prong
 
 _From: https://en.wikipedia.org/wiki/Software_quality_management_
 
-Software quality management (SQM) is a management process that aims to develop and manage the quality of software in such a way so as the best **ensure the product meets the quality standards expected by the customer** while also meeting process and policy.
+Software quality management (SQM) is a management process that aims to develop and manage the quality of software in such a way so as to best **ensure the product meets the quality standards expected by the customer** while also meeting process and policy.
 
 - The job is not only to ensure their software is in good shape for the consumer but also to **encourage a culture of quality** throughout the enterprise.
 
