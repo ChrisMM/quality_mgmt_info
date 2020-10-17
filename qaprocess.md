@@ -16,7 +16,7 @@ _These are some examples, not all, of QA process by looking at
 | Bug severity levels (prioritizing in backlog)    | Cross browser and mobile compatibility testing   |
 | Environment and deployment planning              | Exploratory testing                              |
 | Test case management tool                        | Test cases for regression testing                |
-| Assement of needs on project                     | Bug fix testing                                  |
+| Assessment of needs on project                   | Bug fix testing                                  |
 | Success criteria / Measurements / KPI management | API testing                                      |
 
 ### Quality and Engineering
