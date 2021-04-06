@@ -47,5 +47,5 @@ _These are some examples, not all, of QA process by looking at
 | QA Practices                      | QC Activities                                                          |
 | --------------------------------- | ---------------------------------------------------------------------- |
 | System for CRM tracking           | Keeping CRM up-to-date with information representing the sales funnel  |
-| Template for Scoping and Planning | Creating a plan (Oplan) for others to input for estimates and planning |
+| Template for Scoping and Planning | Creating a plan for others to input for estimates and planning |
 | CRM Training                      | Including non-BizDev members on potential partner calls                |
